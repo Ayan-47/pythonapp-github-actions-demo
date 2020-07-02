@@ -2,4 +2,3 @@ Flask
 importlib-metadata
 py
 pytest
-gunicorn
